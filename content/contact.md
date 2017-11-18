@@ -1,13 +1,13 @@
 ---
 title: Contact
-description: We'd love to hear from you
+description: 
 type: page
 menu:
   main: {}
-
+featured_image: '/images/allanandcamtree.jpg'
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+If you have suggestions for the site, or would like to contribute, please fill out the form below.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/cammyoung@gmail.com"  >}}
