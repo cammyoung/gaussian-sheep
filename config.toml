@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-109825853-1"
 enableRobotsTXT = true
-disqusShortname = "gaussiansheep"
+disqusShortname = "gaussian-sheep"
 
 [sitemap]
   changefreq = "daily"
