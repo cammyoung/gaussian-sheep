@@ -13,10 +13,10 @@
     
     <item>
       <title>Test</title>
-      <link>/test/</link>
+      <link>/post/test/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/test/</guid>
+      <guid>/post/test/</guid>
       <description>This is a test for the blog.</description>
     </item>
     

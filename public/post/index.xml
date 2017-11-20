@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Test</title>
+      <link>/post/test/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>This is a test for the blog.</description>
+    </item>
+    
+    <item>
       <title>Chapter VI: Esmeralda</title>
       <link>/post/chapter-6/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
