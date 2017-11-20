@@ -1,5 +1,5 @@
 title = "Gaussian Sheep"
-baseURL = "https://example.com"
+baseURL = "www.example.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -7,8 +7,9 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-109825853-1"
 enableRobotsTXT = true
+disqusShortname = "gaussiansheep"
 
 [sitemap]
   changefreq = "daily"
