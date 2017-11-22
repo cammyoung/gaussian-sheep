@@ -7,4 +7,4 @@ The amount of available information is increasing faster than we are able to dea
 
 {{< figure src="/images/me.jpg" title="At the world's greatest bookstore" >}}
 
-Cameron Young graduated with a Master's in Economics from the Barcelona Graduate School of Economics in 2017, earning a Bachelor's in Honours Economics from Simon Fraser University prior to that in 2016. He is currently based in Portland, Oregon, working as an Associate Consultant at Economists.com. [LinkedIn](http://linkedin.com/in/cammyoung)
+Cameron Young is Editor and Contributor at Gaussian Sheep. He graduated with a Master's in Economics from the Barcelona Graduate School of Economics in 2017, earning a Bachelor's in Honours Economics from Simon Fraser University prior to that in 2016. He is currently based in Portland, Oregon, working as an Associate Consultant at Economists.com. [LinkedIn](http://linkedin.com/in/cammyoung)
