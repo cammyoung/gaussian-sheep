@@ -17,12 +17,6 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
@@ -42,10 +36,22 @@
   </url>
   
   <url>
+    <loc>/faq/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/north-america/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
