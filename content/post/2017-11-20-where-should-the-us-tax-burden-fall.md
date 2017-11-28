@@ -28,7 +28,7 @@ If corporate tax cuts don’t stimulate the economy, then what will they accompl
 
 Reducing the tax rate applied to companies like Uber and Amazon, as well as reducing the tax rate applied to their foreign earnings, will only augment these between-firm income disparities that drove inequality between individuals since the early 80’s. Regardless of the runaway salary structures of top companies, wage disparities can be combatted through appropriate tax-transfer schemes for individuals. So how does the Trump tax plan fare in that respect?
 
-### Tax Cuts “For All”
+### _Tax Cuts “For All”_
 Since its enactment in 1913, the income tax has been inherently _progressive_, meaning the marginal tax rate increases as personal income increases. Combined with higher credits for low-income parents and deductions for student loans, the system redistributes from high-earners to low-earners. 
 
 The degree to which this happens changes with the House’s version of the Tax Cuts and Jobs Act, in which the majority of the tax cuts go to the wealthy. The Tax Policy Center [finds that](http://www.taxpolicycenter.org/publications/distributional-analysis-tax-cuts-and-jobs-act-passed-house-ways-and-means-committee/full) while many households receive tax cuts, the "largest cuts, in dollars and as a percentage of after-tax income, would accrue to higher-income households."
@@ -40,7 +40,9 @@ Instead, standard deductions and the child tax credit are expanded, which apply 
 Taking uniformity to its extreme, consider a flat tax rate without deductions, in which a 20% income tax is paid by everyone in the country. A person earning $12,000 per year would pay $2,400 under this system, while a person earning $300,000 per year would pay $60,000. For the low-earner, that $2,400 could cover their rent for a few months, but instead they have the remaining $9,600 to live off of. The extra $60,000 would be nice to have for the high-earner, but it is not as necessary for their rent or mortgage payments, since they keep a healthy $240,000. In economic terms, the _marginal utility_ of - or the additional well-being gained from - the $2,400 for the low-earner is far greater than the marginal utility of the $60,000 for the high-earner.
 
 The Trump tax plan is nowhere near comparable to such a system, but it certainly takes a step in that direction. The more uniform a tax-transfer scheme is, the worse off are those at the bottom of the income distribution.
-### Greater Than the Sum of its Parts
+
+### _Greater Than the Sum of its Parts_
+
 Crucial to consideration of a tax plan is not any one feature, but how all parts function as a whole. Questions about the level of the corporate tax rate or the top individual tax rate may be valid, but they should not dominate the discussion, since the underlying structure of the tax code is far more important.
 
 What, then, should be the focus of U.S. tax reform? The primary goal of any tax scheme is to fund the federal government's operations and policies. Yet other goals are achieved through the way in which the government applies taxes, deductions, and credits to different subsections of the population. 
