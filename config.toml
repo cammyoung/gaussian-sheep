@@ -17,7 +17,7 @@ disqusShortname = "gaussian-sheep"
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/gsfavicon.jpg"
+  favicon = "/images/gsfavicon.ico"
   description = "Let Blog(x) s.t. Blog : My Mind => The Interwebs"
   facebook = ""
   twitter = "http://twitter.com/GaussianSheep"
